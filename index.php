@@ -25,7 +25,7 @@ header("Location: /");
   <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="css/style.css?v=2">
   <link rel="stylesheet" href="css/BreadCrumb.css" type="text/css">
-  <script src="js/libs/modernizr-1.6.min.js"></script>
+  <script src="http://ajax.cdnjs.com/ajax/libs/modernizr/1.6/modernizr-1.6.min.js"></script>
   
 </head>
 
